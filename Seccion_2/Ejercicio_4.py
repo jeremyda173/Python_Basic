@@ -14,7 +14,7 @@ if genero == "M":
     if nombre.lower() < "m":
         curso = "A"
     else:
-        nombre = "B"
+        curso = "B"
 else:
     if nombre.lower() > "n":
         curso = "A"
